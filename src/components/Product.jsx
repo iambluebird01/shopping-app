@@ -6,6 +6,7 @@ import {
 import styled from 'styled-components';
 
 const Info = styled.div`
+  opacity: 0;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -30,6 +31,8 @@ const Container = styled.div`
   justify-content: center;
   background-color: #f5fbfd;
   position: relative;
+  &:hover ${Info} {
+    opacity: 1;
   }
 `;
 
