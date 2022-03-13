@@ -192,5 +192,3 @@ const Product = () => {
     </Container>
   );
 };
-
-export default Product;
