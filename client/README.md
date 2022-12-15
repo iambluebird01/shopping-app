@@ -11,7 +11,7 @@ Create .env file with following properties and paste config values respectively
    ```
  Start the development server
    ```bash
-   npm start / npm run dev
+   - npm start / npm run dev
    or
-   yarn start / yarn run dev
+   - yarn start / yarn run dev
    ```
