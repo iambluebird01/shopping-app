@@ -1,9 +1,9 @@
 ## **`Shopping App`**
 
-![](https://img.shields.io/github/languages/code-size/iambluebird01/medium-clone?style=flat-square)
-![](https://img.shields.io/github/last-commit/iambluebird01/medium-clone?style=flat-square)
-![](https://img.shields.io/github/languages/top/iambluebird01/medium-clone?style=flat-square)
-![](https://img.shields.io/github/license/iambluebird01/medium-clone?style=flat-square)
+![](https://img.shields.io/github/languages/code-size/iambluebird01/shopping-app?style=flat-square)
+![](https://img.shields.io/github/last-commit/iambluebird01/shopping-app?style=flat-square)
+![](https://img.shields.io/github/languages/top/iambluebird01/shopping-app?style=flat-square)
+![](https://img.shields.io/github/license/iambluebird01/shopping-app?style=flat-square)
 
 ---
 
