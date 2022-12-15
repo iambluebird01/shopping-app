@@ -1,6 +1,5 @@
  Create .env file with following properties and paste config values respectively
    ```bash
-   for api folder:
    MONGO_URL = ------------------
    PASS_SEC = ------------------
    JWT_SEC = ------------------
